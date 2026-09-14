@@ -25,4 +25,8 @@ A collection of my LeetCode solutions to practice problem-solving, strengthen Da
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dharshinideivasigamani15-droid/Leetcode-coding-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/dharshinideivasigamani15-droid/Leetcode-coding-/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
