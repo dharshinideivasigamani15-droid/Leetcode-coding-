@@ -29,4 +29,12 @@ A collection of my LeetCode solutions to practice problem-solving, strengthen Da
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/dharshinideivasigamani15-droid/Leetcode-coding-/tree/master/0263-ugly-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/dharshinideivasigamani15-droid/Leetcode-coding-/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/dharshinideivasigamani15-droid/Leetcode-coding-/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
