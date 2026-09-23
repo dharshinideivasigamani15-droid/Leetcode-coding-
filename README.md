@@ -6,6 +6,7 @@ A collection of my LeetCode solutions to practice problem-solving, strengthen Da
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dharshinideivasigamani15-droid/Leetcode-coding-/tree/master/0001-two-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dharshinideivasigamani15-droid/Leetcode-coding-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/dharshinideivasigamani15-droid/Leetcode-coding-/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/dharshinideivasigamani15-droid/Leetcode-coding-/tree/master/1672-richest-customer-wealth) |
@@ -16,6 +17,7 @@ A collection of my LeetCode solutions to practice problem-solving, strengthen Da
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dharshinideivasigamani15-droid/Leetcode-coding-/tree/master/0001-two-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dharshinideivasigamani15-droid/Leetcode-coding-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
