@@ -7,12 +7,14 @@ A collection of my LeetCode solutions to practice problem-solving, strengthen Da
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dharshinideivasigamani15-droid/Leetcode-coding-/tree/master/0001-two-sum) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dharshinideivasigamani15-droid/Leetcode-coding-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dharshinideivasigamani15-droid/Leetcode-coding-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/dharshinideivasigamani15-droid/Leetcode-coding-/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/dharshinideivasigamani15-droid/Leetcode-coding-/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dharshinideivasigamani15-droid/Leetcode-coding-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/dharshinideivasigamani15-droid/Leetcode-coding-/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
@@ -39,4 +41,8 @@ A collection of my LeetCode solutions to practice problem-solving, strengthen Da
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/dharshinideivasigamani15-droid/Leetcode-coding-/tree/master/0344-reverse-string) |
+## Binary Search
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dharshinideivasigamani15-droid/Leetcode-coding-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
