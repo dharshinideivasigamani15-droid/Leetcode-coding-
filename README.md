@@ -7,6 +7,7 @@ A collection of my LeetCode solutions to practice problem-solving, strengthen Da
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dharshinideivasigamani15-droid/Leetcode-coding-/tree/master/0001-two-sum) |
+| [0832-flipping-an-image](https://github.com/dharshinideivasigamani15-droid/Leetcode-coding-/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dharshinideivasigamani15-droid/Leetcode-coding-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dharshinideivasigamani15-droid/Leetcode-coding-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/dharshinideivasigamani15-droid/Leetcode-coding-/tree/master/1470-shuffle-the-array) |
@@ -14,6 +15,7 @@ A collection of my LeetCode solutions to practice problem-solving, strengthen Da
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/dharshinideivasigamani15-droid/Leetcode-coding-/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dharshinideivasigamani15-droid/Leetcode-coding-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/dharshinideivasigamani15-droid/Leetcode-coding-/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
@@ -37,6 +39,7 @@ A collection of my LeetCode solutions to practice problem-solving, strengthen Da
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/dharshinideivasigamani15-droid/Leetcode-coding-/tree/master/0344-reverse-string) |
+| [0832-flipping-an-image](https://github.com/dharshinideivasigamani15-droid/Leetcode-coding-/tree/master/0832-flipping-an-image) |
 ## String
 |  |
 | ------- |
@@ -45,4 +48,12 @@ A collection of my LeetCode solutions to practice problem-solving, strengthen Da
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dharshinideivasigamani15-droid/Leetcode-coding-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/dharshinideivasigamani15-droid/Leetcode-coding-/tree/master/0832-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/dharshinideivasigamani15-droid/Leetcode-coding-/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
